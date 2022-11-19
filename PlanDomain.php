@@ -1,5 +1,5 @@
 <?php
-/**
+/** echo  full sql code , keyword ->DB::listen(
  * Created by IntelliJ IDEA.
  * User: mitsuru
  * Date: 2016/06/02
